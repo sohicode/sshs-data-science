@@ -1,4 +1,4 @@
-### ¼­¿ï°úÇÐ°íµîÇÐ±³ µ¥ÀÌÅÍ°úÇÐ ¼ö¾÷
+### sohicode data science lecture ###
 
-2022ÇÐ³âµµ 1ÇÐ±â ÄÄÇ»ÅÍ°úÇÐÇÁ·ÎÁ§Æ® ¼ö¾÷ ÀÚ·áÀÔ´Ï´Ù.<br>
-¼ö¾÷¿¡ ÇÊ¿äÇÑ ÀÚ·á¸¦ È°¿ëÇÏ¼¼¿ä.
+sohicode ìˆ˜ì—… ìžë£Œìž…ë‹ˆë‹¤.<br>
+ìˆ˜ì—…ì— í•„ìš”í•œ ìžë£Œë¥¼ í™œìš©í•˜ì„¸ìš”.
